@@ -16,9 +16,9 @@
 
 ## Об авторе
 
-[Telegram](https://t.me/stewkk)
-[Почта](mailto:stewk6@gmail.com)
-Года обучения: 2021-2025
+- [Telegram](https://t.me/stewkk)
+- [Почта](mailto:stewk6@gmail.com)
+- Года обучения: 2021-2025
 
 ## Бакалавриат
 
