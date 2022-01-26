@@ -9,6 +9,9 @@
 
 ## Полезные ссылки
 
+- [Сайт кафедры](http://iu9.bmstu.ru/)
+- [Учебные материалы на github](https://bmstu-iu9.github.io/)
+- [Github кафедры](https://github.com/bmstu-iu9)
 - [База знаний ИУ9 (2015)](https://cloud.mail.ru/public/AE6n/fv3weLrEr/)
 
 ## Бакалавриат
