@@ -14,6 +14,12 @@
 - [Github кафедры](https://github.com/bmstu-iu9)
 - [База знаний ИУ9 (2015)](https://cloud.mail.ru/public/AE6n/fv3weLrEr/)
 
+## Об авторе
+
+[Telegram](https://t.me/stewkk)
+[Почта](mailto:stewk6@gmail.com)
+Года обучения: 2021-2025
+
 ## Бакалавриат
 
 ### [Семестр 1](sem1/sem1.md)
